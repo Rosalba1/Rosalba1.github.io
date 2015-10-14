@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Pagina Personal -> ROSALBA</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="Style/cabecera.css">
+        <link rel="stylesheet" type="text/css" href="Style/cuerpo.css">
+        <link rel="stylesheet" type="text/css" href="Style/pie.css">
+        
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+    </head>
+    <body>
+        <div class="contenedorPrincipal">
+            <div class="cabecera">
+                <div class="encabezadoTitulo">
+                    <div class="titulo1">
+                        Rosalba
+                    </div>
+                </div>
+                <div class="menuPrincipal">
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="ProyectoTI.html">Proyectos de T.I</a></li>
+                        <li><a href="tecnologiasWEB.html">Tecnologías WEB II</a></li>
+                        <li><a href="analisis.html">Analisis</a></li>
+                        <li><a href="acercaDe.html">Acerca de...</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="cuerpo">
+                <div class="opcionesdeMenu">
+                    <div class="reportesOpcion">Reporte</div>
+                     <div class="contenidoReporte">Los reportes presentan información que explica de una manera breve historia, ejemplos, ventajas y desventajas de cada tema expuesto, asi como las aplicaciones involucradas en cada tema.</div>
+                   
+                </div>
+                <div class="contenido">
+                    <div class="tituloContenido">Acerca De...</div>
+                    <div class="informacionContenido">
+                       
+                    </div>
+                    <div class="biografiaContenido">El contenido de esta página explica concretamente el manejo de nuevas tecnologías que día con día cambian. Todo lo que se publique en esta página son con fines academicos bajo la supervición del I.C Oscar Uriel Pérez Vásquez.</div>
+                </div>
+            </div>
+            <div class="pie">
+                Elaboró: Zárate Pacheco Rosalba.<br>
+                &copy; DAWN 2015
+            </div>
+        </div>
+    </body>
+</html>
