@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Tecnologías WEB II.</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="Style/cabecera.css">
+        <link rel="stylesheet" type="text/css" href="Style/cuerpo.css">
+        <link rel="stylesheet" type="text/css" href="Style/pie.css">
+        
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+    </head>
+    <body>
+        <div class="contenedorPrincipal">
+            <div class="cabecera">
+                <div class="encabezadoTitulo">
+                    <div class="titulo1">
+                       Tecnologías WEB II.
+                    </div>
+                </div>
+                <div class="menuPrincipal">
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="ProyectoTI.html">Proyectos de T.I</a></li>
+                        <li><a href="tecnologiasWEB.html">Tecnologías WEB II</a></li>
+                        <li><a href="analisis.html">Analisis</a></li>
+                        <li><a href="acercaDe.html">Acerca de...</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="cuerpo">
+                <div class="opcionesdeMenu">
+                    <div class="reportesOpcion">Reporte</div>
+                    <ul>
+                        <li><a href="origenTWEB.html">Origen</a></li>
+                        <li><a href="aplicacionesTWEB.html">Aplicaciones</a></li>
+                        <li><a href="ejemplosTWEB.html">Ejemplos</a></li>
+                        <li><a href="ventajasTWEB.html">Ventajas</a></li>
+                        <li><a href="desventajasTWEB.html">Desventajas</a></li>
+                    </ul>
+                   
+                </div>
+                <div class="contenido">
+                    <div class="tituloContenido">Desventajas de XML y JSON.</div>
+                    <div class="informacionContenido">
+                        <div id="wowslider-container1">
+                            <div class="ws_images"><ul>
+                                    <li><img src="data1/images/img22.jpg" alt="" title="" id="wows1_0"/></li>
+                                    <li><img src="data1/images/img23.jpg" alt="" title="" id="wows1_1"/></li>
+                                    <li><img src="data1/images/img24.jpg" alt="" title="" id="wows1_2"/></li>
+                                    <li><img src="data1/images/img25.jpg" alt="" title="" id="wows1_3"/></li>
+                                    <li><img src="data1/images/img26.jpg" alt="" title="" id="wows1_4"/></li>
+                                    <li><img src="data1/images/img27.jpg" alt="" title="" id="wows1_5"/></li>
+                                    <li><img src="data1/images/img28.jpg" alt="" title="" id="wows1_6"/></li>
+                                    <li><img src="data1/images/img29.jpg" alt="" title="" id="wows1_7"/></li>
+                                    <li><img src="data1/images/img30.jpg" alt="" title="" id="wows1_8"/></li>
+                            </ul></div>
+                            <div class="ws_bullets"><div>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img22.jpg" alt=""/>1</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img23.jpg" alt=""/>2</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img24.jpg" alt=""/>3</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img25.jpg" alt=""/>4</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img26.jpg" alt=""/>5</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img27.jpg" alt=""/>6</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img28.jpg" alt=""/>7</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img29.jpg" alt=""/>8</span></a>
+                                    <a href="#" title=""><span><img src="data1/tooltips/img30.jpg" alt=""/>9</span></a>
+                            </div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
+                            <div class="ws_shadow"></div>
+                        </div>	
+                    <script type="text/javascript" src="engine1/wowslider.js"></script>
+                    <script type="text/javascript" src="engine1/script.js"></script>
+                    </div>
+                    <div class="biografiaContenido">El contenido de esta página explica concretamente el manejo de nuevas tecnologías que día con día cambian. Todo lo que se publique en esta página son con fines academicos bajo la supervición del I.C Oscar Uriel Pérez Vásquez.</div>
+                </div>
+            </div>
+            <div class="pie">
+                Elaboró: Zárate Pacheco Rosalba.<br>
+                &copy; DAWN 2015
+            </div>
+        </div>
+    </body>
+</html>
