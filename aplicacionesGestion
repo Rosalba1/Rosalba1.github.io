@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Aplicaciones para la gestión de Proyectos.</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="Style/cabecera.css">
+        <link rel="stylesheet" type="text/css" href="Style/cuerpo.css">
+        <link rel="stylesheet" type="text/css" href="Style/pie.css">
+        
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+    </head>
+    <body>
+        <div class="contenedorPrincipal">
+            <div class="cabecera">
+                <div class="encabezadoTitulo">
+                    <div class="titulo1">
+                       Proyecto de Tecnologías de la Información.
+                    </div>
+                </div>
+                <div class="menuPrincipal">
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="ProyectoTI.html">Proyectos de T.I</a></li>
+                        <li><a href="tecnologiasWEB.html">Tecnologías WEB II</a></li>
+                        <li><a href="analisis.html">Analisis</a></li>
+                        <li><a href="acercaDe.html">Acerca de...</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="cuerpo">
+                <div class="opcionesdeMenu">
+                    <div class="reportesOpcion">Reporte</div>
+                    <ul>
+                        <li><a href="origenProyectoTI.html">Origen</a></li>
+                        <li><a href="aplicacionesGestion.html">Aplicaciones para gestión de Proyectos</a></li>
+                        <li><a href="aplicacionesProyectosTI.html">Herramientas para la gestión</a></li>
+                       <li><a href="ejemplosProyectosTI.html">Limitaciones de la gestión</a></li>
+                        <li><a href="ventajasProyectosTI.html">Ventajas</a></li>
+                        <li><a href="desventajasProyectosTI.html">Desventajas</a></li>
+                    </ul>
+                   
+                </div>
+                <div class="contenido">
+                    <div class="tituloContenido">Aplicaciones para la gestión de Proyectos.</div>
+                    <div class="informacionContenido">
+                         <div class="contenidoOrigen">
+                             <div class="contenedor1">
+                                 <div class="contenidoContenedor1"><b>ACTIVE COLLAB:</b> es una herramienta muy fácil e intuitiva. De forma muy ágil, el gestor del proyecto crea hitos y tareas y las asigna a los miembros del equipo. A partir de ahí se pueden mantener comunicaciones y avisos, e intercambiar ficheros cómodamente. Además, permite escribir y responder desde tu correo sin haber entrado en el sistema. <br></div>
+                                 <div class="contenedorImagen1"></div>
+                             </div>
+                             <div class="contenedor2">
+                                 <div class="contenidoContenedor2"><b>ASSEMBLA:</b> es una herramienta ideal si hablamos de gestión de proyectos de desarrollo. El elemento clave es el sistema de tickets que son asignados a cada miembro del equipo. Cada ticket incorpora información detallada como el nivel de complejidad y las horas de trabajo. Destaca por sus funcionalidades de Reporting, que incluyen informes muy útiles para gestionar plazos y recursos.Es muy bueno para trabajar siguiendo metodologías de desarrollo ágil tipo Scrum. <br></div>
+                                 <div class="contenedorImagen2"></div>
+                             </div>
+                             <div class="contenedor3">
+                                 <div class="contenidoContenedor3"><b>BASECAMP:</b> es seguramente la más sencilla e intuitiva. Tiene un diseño impecable, su interfaz visual permite rápidamente revisar discusiones, tareas y ficheros. Incluye también un time-line y un calendario. Es posible responder a las discusiones desde el email (sin haber accedido al sistema)<br></div>
+                                 <div class="contenedorImagen3"></div>
+                             </div>
+                             <div class="contenedor4">
+                                 <div class="contenidoContenedor4"><b>CENTRAL DESKTOP:</b> es una buena herramienta de trabajo en la nube. Su principal ventaja es que está muy orientada al trabajo en tiempo real, ya que ofrece mensajería instantánea, edición de documentos online y conferencia web en tiempo real.<br></div>
+                                 <div class="contenedorImagen4"></div>
+                             </div>
+                             <div class="contenedor5">
+                                 <div class="contenidoContenedor5"><b>CONFLUENCE:</b> es una herramienta ideada para facilitar el intercambio de documentación, información y archivos. Aporta un alto nivel de organización para grandes proyectos u organizaciones. Destaca también por su integración con Microsoft Office.<br></div>
+                                 <div class="contenedorImagen5"></div>
+                             </div>
+                             <div class="contenedor6">
+                                 <div class="contenidoContenedor6"><b>KAPOST:</b> es un software de gestión editorial perfecto para los bloggers y escritores que trabajan en colaboración. Se trata de una sala de publicación virtual donde los usuarios pueden presentar un concepto para que lo apruebe un editor. Hay tres tipos de usuarios: editores, colaboradores y suscriptores. Los editores pueden aprobar, asignar y rechazar las ideas presentadas. Kapost se encuentra incorporada en los pagos por correo, cuando se trabaja con un equipo muy diverso.<br></div>
+                                 <div class="contenedorImagen6"></div>
+                             </div>
+                         </div>
+                        
+                    </div>
+                    <div class="biografiaContenido">
+                        BIOGRAFIA:<br>
+                        Forsberg, K., Mooz, H., Cotterman, H. Wiley. Visualizing project management. New York 1996.<br>
+                        Light, Matt, Stang, Daniel B., Magic Quadrant for IT Project and Portfolio Management, 2007. Matt Gartner RAS Core
+                        Research Note G00149082. June 2007.<br>
+                        A Guide to the Project Management Body of Knowledge (PMBOK® Guide) - Third Edition, Paperback. Project Management
+                        Institute. 2004.<br>
+                        Partington, David., The project management of organizational change. International Journal of Project Management Vol.
+                        14, 1996.<br>
+                    </div>
+                </div>
+            </div>
+            <div class="pie">
+                Elaboró: Zárate Pacheco Rosalba.<br>
+                &copy; DAWN 2015
+            </div>
+        </div>
+    </body>
+</html>
