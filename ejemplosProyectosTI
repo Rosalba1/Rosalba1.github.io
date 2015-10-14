@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Proyecto de Tecnologías de la Información.</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="Style/cabecera.css">
+        <link rel="stylesheet" type="text/css" href="Style/cuerpo.css">
+        <link rel="stylesheet" type="text/css" href="Style/pie.css">
+        
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+    </head>
+    <body>
+        <div class="contenedorPrincipal">
+            <div class="cabecera">
+                <div class="encabezadoTitulo">
+                    <div class="titulo1">
+                       Proyecto de Tecnologías de la Información.
+                    </div>
+                </div>
+                <div class="menuPrincipal">
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="ProyectoTI.html">Proyectos de T.I</a></li>
+                        <li><a href="tecnologiasWEB.html">Tecnologías WEB II</a></li>
+                        <li><a href="analisis.html">Analisis</a></li>
+                        <li><a href="acercaDe.html">Acerca de...</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="cuerpo">
+                <div class="opcionesdeMenu">
+                    <div class="reportesOpcion">Reporte</div>
+                    <ul>
+                        <li><a href="origenProyectoTI.html">Origen</a></li>
+                        <li><a href="aplicacionesGestion.html">Aplicaciones para gestión de Proyectos</a></li>
+                        <li><a href="aplicacionesProyectosTI.html">Herramientas para la gestión</a></li>
+                        <li><a href="ejemplosProyectosTI.html">Limitaciones de la gestión</a></li>
+                        <li><a href="ventajasProyectosTI.html">Ventajas</a></li>
+                        <li><a href="desventajasProyectosTI.html">Desventajas</a></li>
+                    </ul>
+                   
+                </div>
+                <div class="contenido">
+                    <div class="tituloContenido">Limitaciones actuales de la gestión de Proyectos.</div>
+                    <div class="informacionContenido">
+                        <div class="contenidoLimitacion">
+                            Existen en el mercado una gran cantidad de
+                            productos de software orientados a la administración
+                            de los proyectos, muchos de los cuales son
+                            ampliamente utilizados en las organizaciones,
+                            tales como: Microsoft Project, Primavera Systems,
+                            y PlanView. <br><br>
+                            Todas estas herramientas ofrecen diversos módulos con capacidades
+                            para definir, planear y administrar la cartera de proyectos y los
+                            proyectos definidos, que incluso se apegan a las mejores prácticas
+                            sugeridas por el Project Management Institute (PMI) (A Guide to the
+                            Project Managment Body of Knowledge, 2004). Sin embargo, a pesar
+                            de que cuentan con varios módulos para dar un seguimiento detallado
+                            a la información requerida en cada una de las fases del ciclo de
+                            vida del proyecto, tienen varias limitaciones como las que a
+                            continuación se describen:<br><br>
+                            • Normalmente son herramientas desarrolladas como programas
+                            clientes/servidor, muy pocas de ellas tienen interfaces en web.<br>
+                            • La información generada en cada una de sus etapas, debe
+                            adecuarse para transferirse a otros sistemas, generando
+                            actividades.<br>
+                            • No cuentan con mecanismos de colaboración que permitan administrar
+                            los ciclos de vida de la información que se genera dentro
+                            del proyecto.<br>
+                            • Los resultados del seguimiento y control deben ser trabajados por
+                            separado, para generar informes que se puedan utilizar por las
+                            herramientas de inteligencia de negocios.<br>
+                            • No existe comunicación directa con los procesos sustantivos y de
+                            soporte de la empresa.<br>
+                            • La experiencia ganada en los proyectos no impacta los procesos
+                            de la empresa directamente, ni se da seguimiento a ello.<br>
+                            • La información se administra en forma aislada.<br>
+                            • Los productos y resultados de los proyectos quedan aislados.<br>
+                            • No se contemplan procesos para revisar el impacto de los resultados
+                            en la organización.<br>
+                            • No se contemplan procesos para que se proteja la propiedad intelectual
+                            de los productos y resultados generados.<br>
+                            • No se contemplan procesos para integrar las asignaciones y tareas
+                            del proyecto, a las agendas de gestión de los participantes.<br>
+                            • No se integran procesos para rescatar el aprendizaje ganado en
+                            los proyectos, mediante la publicación y difusión de mejores prácticas
+                            y lecciones aprendidas.<br>
+                            • No se realiza una buena administración del conocimiento de los
+                            proyectos.<br>
+                        </div>
+                    </div>
+                    <div class="biografiaContenido">
+                        BIOGRAFIA:<br>
+                        Forsberg, K., Mooz, H., Cotterman, H. Wiley. Visualizing project management. New York 1996.<br>
+                        Light, Matt, Stang, Daniel B., Magic Quadrant for IT Project and Portfolio Management, 2007. Matt Gartner RAS Core
+                        Research Note G00149082. June 2007.<br>
+                        A Guide to the Project Management Body of Knowledge (PMBOK® Guide) - Third Edition, Paperback. Project Management
+                        Institute. 2004.<br>
+                        Partington, David., The project management of organizational change. International Journal of Project Management Vol.
+                        14, 1996.<br>
+                    </div>
+                </div>
+            </div>
+            <div class="pie">
+                Elaboró: Zárate Pacheco Rosalba.<br>
+                &copy; DAWN 2015
+            </div>
+        </div>
+    </body>
+</html>
